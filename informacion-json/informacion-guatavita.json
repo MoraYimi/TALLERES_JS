@@ -1,0 +1,13 @@
+{
+    "tarjetas": [
+        {
+            "imagen": "image/glamping-guatavita-1-2.jpg" ,
+            "texto": "Este sitio aledaño se caracteriza por ser uno de los destinos favoritos en Bogotá, por sus destacados lugares coloniales, históricos y ambientales. Es un sitio muy visitado por todos los colombianos y extranjeros, por lo que encontrarás una amplia gama en oferta de hoteles y cabañas (estilo glamping)."
+        },
+        {
+            "imagen": "image/guatavita.jpg" ,
+            "texto": "En esta oportunidad queremos darte a conocer algunos lugares característicos de Guatavita que puedes visitar."
+        }
+        
+    ]
+}
